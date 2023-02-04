@@ -16,7 +16,7 @@ This is a custom web browser developed using Python and PyQt5. The current versi
   
   
 ## How to run
-  1.) Clone this repository to your local machine using git clone https://github.com/<your-username>/web-browser.git
+  1.) Clone this repository to your local machine using git clone https://github.com/Xenshin/web-browser.git
   
   2.) Navigate to the cloned repository using cd web-browser
   
